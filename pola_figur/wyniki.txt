@@ -1,0 +1,7 @@
+Pole kwadrat: 20 
+Pole kwadrat: 56 
+Pole prostokat: 41 
+Pole prostokat: 56 
+Pole prostokat: 45 
+Pole prostokat: 78 
+Pole trapez: 5 
