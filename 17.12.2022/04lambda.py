@@ -14,4 +14,4 @@ print(apply_function([10, 20, 30], lambda x: sum(x)/len(x)))
 print(apply_function(5, lambda x: x ** 6))
 
 numbers = [-3, -2, -1, 0, 1, 2, 3]
-print(sorted(numbers, key=-1))
+print(sorted(numbers, key=lambda x: abs(x)))
